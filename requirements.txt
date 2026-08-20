@@ -1,0 +1,7 @@
+streamlit==1.62.0
+chromadb==1.5.9
+groq==1.6.0
+pypdf==6.16.1
+sentence-transformers==6.0.0
+python-dotenv==1.2.3
+torch==2.13.0
